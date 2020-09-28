@@ -1,5 +1,5 @@
 {
-    "name": "edno/codeception-secureshell",
+    "name": "yasuslik/codeception-secureshell",
     "description": "Codeception extension providing SSH capabilitie: SSH command, SSH file transfer, SSH tunneling",
     "keywords": ["codeception", "extension", "ssh", "scp"],
     "homepage": "https://github.com/edno/codeception-secureshell",
@@ -13,7 +13,7 @@
     "require": {
         "php": "^5.6 || ^7.0",
         "ext-ssh2": ">=0.13",
-        "codeception/codeception": ">=2.2"
+        "codeception/codeception": "^4.0"
     },
     "require-dev": {
         "satooshi/php-coveralls": "^2.1",
